@@ -27,4 +27,4 @@ I love learning new technologies, building projects, and sharing knowledge.
 ---
 
 🔗 **Let's connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin))](https://www.linkedin.com/in/lucas-caldeira-b756231a7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-caldeira-b756231a7/)
