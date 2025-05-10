@@ -16,7 +16,7 @@ I love learning new technologies, building projects, and sharing knowledge.
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luqueze&show_icons=true&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luqueze&show_icons=true&theme=tokyonight&hide=contribs" width="400">
 </div>
 
 ## 🎯 My Goals for This Year
