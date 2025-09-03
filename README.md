@@ -9,7 +9,7 @@ Hey there! I'm **Lucas**, a developer exploring the world of Django and web deve
 I love learning new technologies, building projects, and sharing knowledge.
 
 ### ✨ My Skills:
-- 🐍 Python, Django
+- 🐍 Python, Django, Java
 - 🎨 HTML, CSS & JavaScript
 - 🛠️ Web Development
 - 📦 C++, SQL, Git
