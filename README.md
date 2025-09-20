@@ -5,14 +5,14 @@
 </div>
 
 ## 👋 About Me
-Hey there! I'm **Lucas**, a developer exploring the world of Django and web development.  
+Hey there! I'm **Lucas**, a developer exploring the world of Java/Spring and web development.  
 I love learning new technologies, building projects, and sharing knowledge.
 
 ### ✨ My Skills:
-- 🐍 Python, Django, Java
-- 🎨 HTML, CSS & JavaScript
+- ☕ Java, Spring Boot
+- 🎨 HTML, CSS & JavaScript, Vue.js
 - 🛠️ Web Development
-- 📦 C++, SQL, Git
+- 📦 PostgreSQL, Docker, CI/CD
 
 ## 📈 GitHub Stats
 <div align="center">
@@ -20,7 +20,7 @@ I love learning new technologies, building projects, and sharing knowledge.
 </div>
 
 ## 🎯 My Goals for This Year
-- Master Django's best practices 
+- Master Java enviroment best practices 
 - Build an open-source project and contribute to the community 
 - Start studying AI and Machine Learning 
 
