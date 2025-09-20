@@ -9,7 +9,7 @@ Hey there! I'm **Lucas**, a developer exploring the world of Java/Spring and web
 I love learning new technologies, building projects, and sharing knowledge.
 
 ### ✨ My Skills:
-- ☕ Java, Spring Boot
+- ☕ Java, Spring Boot, Python
 - 🎨 HTML, CSS & JavaScript, Vue.js
 - 🛠️ Web Development
 - 📦 PostgreSQL, Docker, CI/CD
