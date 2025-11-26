@@ -1,28 +1,21 @@
-# 🚀 Welcome to My GitHub Profile!
+#  Hi, I'm Lucas
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
+I’m a developer exploring the world of Java/Spring and web development. I’m passionate about learning new technologies, building projects, and sharing knowledge with others.
+
+###  My Skills:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-## 👋 About Me
-Hey there! I'm **Lucas**, a developer exploring the world of Java/Spring and web development.  
-I love learning new technologies, building projects, and sharing knowledge.
-
-### ✨ My Skills:
-- ☕ Java, Spring Boot, Python
-- 🎨 HTML, CSS & JavaScript, Vue.js
-- 🛠️ Web Development
-- 📦 PostgreSQL, Docker, CI/CD
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luqueze&show_icons=true&theme=tokyonight&hide=contribs,stars" width="400">
-</div>
-
-## 🎯 My Goals for This Year
-- Master Java enviroment best practices 
-- Build an open-source project and contribute to the community 
-- Start studying AI and Machine Learning 
 
 ---
 
